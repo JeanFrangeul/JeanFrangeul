@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JeanFrangeul
 - 🌱 I’m currently learning React & Symfony
-- 👀 Test my last app : https://jeanfrangeul.github.io/react-drum-machine/ 
+- 👀 My portfolio : https://www.portfolio.jean-frangeul.fr
 - 📫 How to reach me : https://www.linkedin.com/in/jean-frangeul/
